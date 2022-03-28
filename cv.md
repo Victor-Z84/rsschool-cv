@@ -20,7 +20,17 @@
 ***
  
 ### **About Me**
+
+Web developer with experience in
+developing responsive and cross-browser
+websites and applications.
  
+I am ready to apply all of my knowledge and
+accumulated experience in the
+implementation of interesting and large
+projects, becoming part of a team in a
+stable and safe IT company.
+
 ---
  
 ### **Skills**
@@ -42,7 +52,20 @@
 ---
  
 ### **Code examples**
+
+```
+function isEvenValue(obj) {
+    for (let prop in obj) {
+        if (obj[prop] % 2 === 0) {
+            return true;
+        };
+    };
+    return false;
+};
  
+console.log(isEvenValue({x: 1, y: 2})); // true
+console.log(isEvenValue({x: 1, y: 1})); // false
+```
 ---
  
 ### **Work experience**
