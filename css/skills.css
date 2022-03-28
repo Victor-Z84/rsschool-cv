@@ -1,0 +1,10 @@
+.bottom-part-skills {
+    padding: 16px 16px 16px 32px;
+    width: 65%;
+}
+
+.bottom-part-skills-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
