@@ -1,0 +1,15 @@
+.top-part-right-main {
+    padding-top: 32px;
+    margin-bottom: 50px;
+    border-bottom: 2px solid black;
+}
+
+.top-part-right-main__title {
+    text-transform: uppercase;
+    font-size: 40px;
+    margin-bottom: 16px;
+}
+
+.top-part-right-main__description {
+    margin-bottom: 8px;
+}
